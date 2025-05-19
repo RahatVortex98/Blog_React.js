@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "As a full-time student, sometimes it gets a little bit tiring dealing with lectures and projects every day. And being a freelancer, I don’t get to write about the things I want to write. I’ve decided to start blogging to be able to share my experiences and have some fun while doing it too.",
+      "author": "shinchan",
+      "id": "1"
+    },
+    {
+      "title": "Opening Party",
+      "body": "Give yourself time to decide on a date, time, place, and theme. Start talking about the party 2-6 weeks in advance to make sure guests are free. Have food, drinks, and games or activities for guests to enjoy during the party. At the party, be a social butterfly to help create a welcoming atmosphere.",
+      "author": "masao",
+      "id": "2"
+    },
+    {
+      "id": "f76e",
+      "title": "Come Back",
+      "body": "This come back totally personal",
+      "author": "yoshi"
+    }
+  ]
+}
